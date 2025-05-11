@@ -1,11 +1,9 @@
 <h2>💫 About Me</h2>
-<ul>
-  <li>🔭 I’m currently working on Next.js, Nuxt & Node.js & MongoDB</li>
-  <li>👯 I’m looking to collaborate on full-stack & AI-integrated projects</li>
-  <li>🌱 I’m currently learning RESTAPI & WebSocket</li>
-  <li>💬 Ask me about React, Vue, or SEO-focused web apps</li>
-  <li>⚡ Fun fact is coffee is good</li>
-</ul>
+  🔭 &nbsp;I’m currently working on Next.js, Nuxt & Node.js & MongoDB.<br>
+  👯 &nbsp;I’m looking to collaborate on full-stack & AI-integrated projects.<br>
+  🌱 &nbsp;I’m currently learning RESTAPI & WebSocket.<br>
+  💬 &nbsp;Ask me about React, Vue, or SEO-focused web apps.<br>
+  ⚡ &nbsp;The fun fact is that coffee is good!<br>
 
 <h2>🌐 Socials</h1>
 <p>
