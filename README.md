@@ -7,7 +7,7 @@
 
 <h2>🌐 Socials</h1>
 <p>
-  <a href="https://discord.com/ryeBDV68" target="_blank">
+  <a href="https://discord.gg/ryeBDV68" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://instagram.com/theclient1138" target="_blank">
