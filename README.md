@@ -7,25 +7,25 @@
 
 <h2>🌐 Socials</h1>
 <p>
-  <a href="https://discord.gg/ryeBDV68" target="_blank">
+  <a href="https://discord.gg/ryeBDV68">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://instagram.com/theclient1138" target="_blank">
+  <a href="https://instagram.com/theclient1138">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://tr.pinterest.com/TheClient11/" target="_blank">
+  <a href="https://tr.pinterest.com/TheClient11/">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
   </a>
-  <a href="https://youtube.com/@anmbslr" target="_blank">
+  <a href="https://youtube.com/@anmbslr">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://twitch.tv/theclient11" target="_blank">
+  <a href="https://twitch.tv/theclient11">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch" />
   </a>
-  <a href="mailto:dikicienesburakqgmail.com" target="_blank">
+  <a href="mailto:dikicienesburakqgmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/enes-burak-dikici" target="_blank">
+  <a href="https://linkedin.com/in/enes-burak-dikici">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
