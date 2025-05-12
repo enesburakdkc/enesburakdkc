@@ -16,9 +16,6 @@
   <a href="https://tr.pinterest.com/TheClient11/">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
   </a>
-  <a href="https://youtube.com/@anmbslr">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
-  </a>
   <a href="https://twitch.tv/theclient11">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch" />
   </a>
